@@ -81,14 +81,16 @@ ORDER BY
 ```
 
 ## How to Use
-You can download the SQL queries file from this repository.
-Create Database called Arilines_data.
-Populate the Airline table with relevant data (e.g., airline names, regions, aircraft types, landed weights, etc.).
+You can download the SQL queries file from this repository. <br>
+Create Database called Arilines_data.<br>
+Populate the Airline table with relevant data (e.g., airline names, regions, aircraft types, landed weights, etc.).<br>
 Execute the queries on your SQL database to answer the business questions.
 
 ## Tools Used
 SQL: For querying and analysis. <br>
 Relational Database: To store and manage airline data.
 
-## Conclusion
-This project demonstrates the use of SQL for solving key analytical questions in the aviation industry. The insights obtained can help airlines optimize their operations, understand regional trends, and evaluate aircraft performance.
+## Author – Qasim Ali Mahamed
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+# END PROJECT.
